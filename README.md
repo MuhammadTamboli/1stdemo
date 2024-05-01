@@ -1,2 +1,3 @@
 # 1stdemo
-firstgit repo
+first git repo
+author muhammad
